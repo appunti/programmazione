@@ -25,7 +25,7 @@ Tra i tipo predefiniti abbiamo:
 
 Per definire una variabile si possono usare le seguenti notazioni:
 
-1. **Definizione**:
+1. **Definizione**:  
     ```
     <tipo> <nome>;
     ```
@@ -33,7 +33,7 @@ Per definire una variabile si possono usare le seguenti notazioni:
     ```java
     int conteggio;
     ```
-2. **Definizione ed assegnazione**
+2. **Definizione ed assegnazione**:  
     ```
     <tipo> <nome> = <valore>;
     ```
