@@ -76,4 +76,8 @@ Esempio:
 
 ```java
 final float piGreco = 3.14159265;
+float raggio = 3;
+float areaCerchio = piGreco * Math.pow(raggio, 2);
+System.out.print("L'area del cerchio è: ");
+System.out.println(areaCerchio);
 ```
