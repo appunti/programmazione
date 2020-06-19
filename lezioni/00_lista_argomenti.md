@@ -1,6 +1,5 @@
 # Programmazione
 ## Lista argomenti
----
 
 01. Come lavorare con i dati (variabili e costanti)
 02. Prendere decisioni (if)
