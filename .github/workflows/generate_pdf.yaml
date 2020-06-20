@@ -9,7 +9,11 @@ jobs:
       - uses: actions/checkout@v2
       - name: Install dependencies
         run: |
-          sudo apt-get install pandoc wkhtmltopdf
+          sudo apt-get install pandoc texlive
       - name: Generate PDF
         run: >
-          pandoc $(find lezioni -name "*.md" | sort -n ) --pdf-engine=wkhtmltopdf -o output.pdf
+          pandoc $(find lezioni -name "*.md" | sort -n ) -o output.pdf
+      - uses: actions/upload-artifact@v2
+        with:
+          name: output.pdf
+          path: output.pdf
