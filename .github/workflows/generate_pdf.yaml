@@ -12,5 +12,4 @@ jobs:
           sudo apt-get install pandoc wkhtmltopdf
       - name: Generate PDF
         run: >
-          pandoc $(find lezioni -name "*.md" | sort -n ) \
-            --pdf-engine=wkhtmltopdf -o output.pdf
+          pandoc $(find lezioni -name "*.md" | sort -n ) --pdf-engine=wkhtmltopdf -o output.pdf
