@@ -1,4 +1,4 @@
-# Programmazione
+![Programmazione - Appunti](https://repository-images.githubusercontent.com/273525096/66b53d80-b354-11ea-82bd-e71abca84f85)
 
 ![Pre Commit](https://github.com/eliseomartelli/programmazione-linee-guida/workflows/Pre%20Commit/badge.svg)
 ![Generate PDF](https://github.com/eliseomartelli/programmazione-linee-guida/workflows/Generate%20PDF/badge.svg)
