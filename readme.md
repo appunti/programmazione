@@ -4,7 +4,7 @@
 ![Generate PDF](https://github.com/eliseomartelli/programmazione-linee-guida/workflows/Generate%20PDF/badge.svg)
 
 Lo scopo di questa repository è quella di fornire delle basi sulla programmazione a chi si sta affacciando a questo mondo attraverso l'uso di esempi pratici.
-Puoi trovare una lista dei contenuti qui: [LEZIONI](./lezioni/00_lista_argomenti.md).
+Puoi trovare una lista dei contenuti nella [lezione 0](./lezioni/00_lista_argomenti.md).
 
 ## Contributing
 
