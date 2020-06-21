@@ -1,3 +1,5 @@
+![Programmazione - Appunti](https://repository-images.githubusercontent.com/273525096/66b53d80-b354-11ea-82bd-e71abca84f85)
+
 # Programmazione
 ## Lista argomenti (Parte 1)
 
