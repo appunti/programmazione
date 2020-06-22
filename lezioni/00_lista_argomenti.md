@@ -1,5 +1,6 @@
 ![](https://repository-images.githubusercontent.com/273525096/66b53d80-b354-11ea-82bd-e71abca84f85)\
 
+
 ## Lista argomenti (Parte 1)
 
 01. [Come lavorare con i dati (variabili e costanti)](./01_variabili_e_costanti.md)
