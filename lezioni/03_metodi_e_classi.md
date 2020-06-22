@@ -1,6 +1,6 @@
 # Metodi e Classi
 
-In Java (e più generalmente nella programmazione ad oggetti), le classi sono le entità che hanno il compito di rappresentare gli oggetti.  
+In Java (e più generalmente nella programmazione ad oggetti), le classi sono le entità che hanno il compito di rappresentare gli oggetti.
 Ogni classe può contenere da 0 a più metodi, questi ultimi vengono utilizzati per fare operazioni su dati interni e/o esterni alla classe.
 
 Ogni programma Java deve contenere almeno una classe, e, per essere eseguito deve avere almeno un metodo `main`.
