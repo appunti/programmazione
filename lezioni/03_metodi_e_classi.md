@@ -41,4 +41,6 @@ Normalmente nelle classi troviamo gli access modifiers che sono:
     }
     ```
 
-// To continue
+## Metodi
+
+I metodi ci permettono di separare il codice in modo più specifico e separarlo in unità di codice riutilizzabile.
